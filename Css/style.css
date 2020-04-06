@@ -1,18 +1,18 @@
 body {
-  background-color: #fe346e;
+  background-color: #b2ebf2;
   display: block;
     margin: 8px;
     margin-top: 0px;
     margin-right: 8px;
     margin-bottom: 8px;
     margin-left: 8px;
-}
+
   hr {
     background=color: #ffb6b6;
     height: 5px;
   }
 
-
+}
 .img-responsive{
 
   border-width: thick;
